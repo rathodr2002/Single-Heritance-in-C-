@@ -10,6 +10,7 @@ class Car
     Car()
     {
         cout<<name<<" having Price :"<<price;
+        getchar();
     }
 };
 
